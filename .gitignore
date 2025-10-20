@@ -3,3 +3,4 @@ dist
 node_modules
 .env
 .pnpmp-lock.yaml
+.pnpm_store/v10
