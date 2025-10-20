@@ -2,5 +2,5 @@ pnpm_store
 dist
 node_modules
 .env
-.pnpmp-lock.yaml
+pnpm-lock.yaml
 .pnpm-store/v10
