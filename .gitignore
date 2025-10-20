@@ -1,0 +1,5 @@
+pnpm_store
+dist
+node_modules
+.env
+.pnpmp-lock.yaml
